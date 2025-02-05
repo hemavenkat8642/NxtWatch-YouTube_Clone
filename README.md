@@ -1,6 +1,6 @@
 In this assignment, I built a **NxtWatch Application - YouTube Clone** by applying the concepts I have learned till now.
 
-Project live link: [https://ntejanxtwatch.ccbp.tech](https://ntejanxtwatch.ccbp.tech/)
+Project live link: [https://hvntnxtwatch.ccbp.tech](https://hvntnxtwatch.ccbp.tech/)
 
 <details>
 <summary>Credentials</summary>
